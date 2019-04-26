@@ -23,6 +23,8 @@ On the main page we see advertising slides of the technologies used.
 The second page contains the Deployment Diagramm, which describes the environment in which the application is deployed
 and explanations to the chart
 
+<img src="https://github.com/milestag/DevOps-157_Graduate_T2/blob/master/WebApplication5/wwwroot/images/Environment_Diagram.png">
+
 The third page of the application is the contact information of me and my colleague. You See our photos, phone numbers, emails
 that you can use to contact us.
 
