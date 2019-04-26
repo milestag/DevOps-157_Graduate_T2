@@ -13,6 +13,7 @@ This is a simple 4-page application for students enrolling in Online Courses.
 Information about students and their data are stored in the MSSQL database
 
 //Demonstrate the APP Main Page
+<img src="https://github.com/milestag/DevOps-157_Graduate_T2/blob/master/Screen_01.png">
 
 On the main page we see advertising slides of the technologies used.
 	Main menu at the top of the page
