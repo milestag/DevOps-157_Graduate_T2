@@ -1,5 +1,6 @@
 # DevOps-157_Graduate_T2
 Graduation Demo For SoftServe IT Academy Team2
+
 Hello, my name is Yuri Ivanisenko, I am a member of the team №2 of the DevOps-157 group Dnipro SoftServe Academy
 
 My colleague Andrey Velichkovsky and I want to introduce you to our graduation project.
